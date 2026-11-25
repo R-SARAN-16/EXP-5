@@ -1,8 +1,8 @@
 # EXPERIMENT NO. 5 – ZENER DIODE AS VOLTAGE REGULATOR
 
-| **Name:** | | **Reg. No.:** | |
+| **Name: R SARAN** | | **Reg. No.: 26004406** | |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date: 24-11-2026** | | **Batch / Section:26ODJ135** | |
 
 ---
 
@@ -61,13 +61,13 @@ In a Zener voltage regulator, the Zener diode is connected in reverse bias in pa
 
 ### A. Line regulation
 
-*[ Insert the line regulation circuit diagram here ]*
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/cde3287b-0026-4503-9a9f-6a5cd3c45c0f" />
 
 **Figure 1:** Zener voltage regulator – line regulation
 
 ### B. Load regulation
 
-*[ Insert the load regulation circuit diagram here ]*
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/8ddee72d-2024-4565-86bb-801bb2befcb1" />
 
 **Figure 2:** Zener voltage regulator – load regulation
 
@@ -77,13 +77,13 @@ Build the Zener regulator circuit in Proteus using the 1N4735A, the series resis
 
 ### A. Line regulation – simulation
 
-*[ Paste the Proteus line regulation simulation screenshot here ]*
+<img width="887" height="803" alt="image" src="https://github.com/user-attachments/assets/99b37dc6-b93a-4977-94b2-2f254447212b" />
 
 **Figure 3:** Proteus simulation – line regulation
 
 ### B. Load regulation – simulation
 
-*[ Paste the Proteus load regulation simulation screenshot here ]*
+<img width="860" height="771" alt="image" src="https://github.com/user-attachments/assets/97d6fb86-f526-49d9-8fcb-a6c149ec711a" />
 
 **Figure 4:** Proteus simulation – load regulation
 
@@ -93,8 +93,8 @@ Build the Zener regulator circuit in Proteus using the 1N4735A, the series resis
 
 | S. No. | Input voltage Vin (V) | Output voltage Vo (V) |
 |:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
+| 1 | | 15 | | 10.0 |
+| 2 | | 16 |
 | 3 | | |
 | 4 | | |
 | 5 | | |
