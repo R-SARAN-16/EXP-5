@@ -1,8 +1,8 @@
 # EXPERIMENT NO. 5 – ZENER DIODE AS VOLTAGE REGULATOR
 
-| **Name: R SARAN** | | **Reg. No.: 26004406** | |
-|---|---|---|---|
-| **Date: 24-11-2026** | | **Batch / Section:26ODJ135** | |
+| **Name: R SARAN** | **Reg. No.: 26004406** |
+|---|---|
+| **Date: 24-11-2026** | **Batch / Section:26ODJ135** |
 
 ---
 
@@ -89,31 +89,31 @@ Build the Zener regulator circuit in Proteus using the 1N4735A, the series resis
 
 ## TABULATION
 
-### A. Line regulation (RL = ________ Ω, constant)
+### A. Line regulation (RL = 2000 Ω, constant)
 
 | S. No. | Input voltage Vin (V) | Output voltage Vo (V) |
 |:---:|:---:|:---:|
-| 1 | | 15 | | 10.0 |
-| 2 | | 16 |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
+| 1 | 5 | 4.95 |
+| 2 | 7 | 6.93 |
+| 3 | 9 | 8.91 |
+| 4 | 10 | 9.90 |
+| 5 | 12 | 10.1 |
+| 6 | 15 | 10.1 |
+| 7 | 17 | 10.1 |
+| 8 | 20 | 10.2 |
 
-### B. Load regulation (Vin = ________ V, constant; VNL = ________ V)
+### B. Load regulation (Vin = 15 V, constant; VNL = 10.1 V)
 
 | S. No. | Load resistance RL (Ω) | Output voltage Vo (V) |
 |:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
+| 1 | 2000 | 10.1 |
+| 2 | 4000 | 10.1 |
+| 3 | 6000 | 10.1 |
+| 4 | 8000 | 10.1 |
+| 5 | 10000 | 10.1 |
+| 6 | 12000 | 10.1 |
+| 7 | 14000 | 10.1 |
+| 8 | 16000 | 10.1 |
 
 ## FORMULAE
 
@@ -127,13 +127,15 @@ Build the Zener regulator circuit in Proteus using the 1N4735A, the series resis
 
 ### A. Line regulation (Vin vs Vo)
 
-*[ Paste / draw the line regulation graph here ]*
+<img width="1882" height="915" alt="image" src="https://github.com/user-attachments/assets/32211f99-9a53-48bf-b58c-d532f7ae58f9" />
+
 
 **Figure 5:** Line regulation characteristics
 
 ### B. Load regulation (RL vs Vo)
 
-*[ Paste / draw the load regulation graph here ]*
+<img width="1863" height="872" alt="image" src="https://github.com/user-attachments/assets/3e3e7102-5752-4bb5-98d2-a3b6554959df" />
+
 
 **Figure 6:** Load regulation characteristics
 
